@@ -1,1 +1,1 @@
-# AI-Village-CTF-DEFCON-31
+# AI Village CTF - DEFCON 31

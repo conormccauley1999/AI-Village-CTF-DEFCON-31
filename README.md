@@ -32,6 +32,6 @@ Brief outlines of all of the solutions are provided below but additional details
 | 22. What is the Flag - Level 5 | Manual guessing. |
 | 23. What is the Flag - Level 6 | Manual guessing. |
 | 24. Guess Who's Back? | Clip values between increasingly tighter ranges until flag is visible. |
-| 25. Pickle | Used GPT4 to generate potential solutiosn. |
+| 25. Pickle | Used GPT4 to generate potential solutions. |
 | 26. What's my IP? | Manual guessing. |
 | 27. What's my IP - Level 2 | Manual guessing. |

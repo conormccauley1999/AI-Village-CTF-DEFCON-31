@@ -1,4 +1,4 @@
-# Python
 venv/
-__pycache__/
-*.pyc
+data/
+_*/
+submission_actual.csv
